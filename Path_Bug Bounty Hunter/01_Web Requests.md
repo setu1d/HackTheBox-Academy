@@ -52,7 +52,11 @@ A: ***HTB{p493_r3qu3$t$_m0n!t0r}***
 ![obrázok](https://user-images.githubusercontent.com/86005993/160246696-95131d5c-ce7e-44bc-b2cc-3720acf7917e.png) 
 ![obrázok](https://user-images.githubusercontent.com/86005993/160246763-40e44446-dfa1-49af-956b-47ce4186b2e5.png)
   
-*Questions*
+## HTTP Methods  
+
+### GET 
+  
+
 
 
 
