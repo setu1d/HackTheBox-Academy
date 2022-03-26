@@ -65,7 +65,22 @@ A: ***HTB{curl_g3773r}***
   
 ### Solutions:  
   
-![obrázok](https://user-images.githubusercontent.com/86005993/160254480-79a7ca49-bcfc-4225-ae26-8c1ad9bcca20.png)
+![obrázok](https://user-images.githubusercontent.com/86005993/160254480-79a7ca49-bcfc-4225-ae26-8c1ad9bcca20.png) 
+
+### POST
+
+*Questions*  
+  
+Target: 
+  
+Q: Obtain a session cookie through a valid login, and then use the cookie with cURL to search for the flag through a JSON POST request to '/search.php'  
+A: ***HTB{p0$t_r3p34t3r}***
+  
+### Solutions:
+  
+![obrázok](https://user-images.githubusercontent.com/86005993/160255884-14f978f5-a6a4-4a76-979b-d239e91551dd.png)
+
+
 
 
 
