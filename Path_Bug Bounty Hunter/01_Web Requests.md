@@ -56,6 +56,18 @@ A: ***HTB{p493_r3qu3$t$_m0n!t0r}***
 
 ### GET 
   
+*Questions*
+  
+Target: 167.172.52.221:31693  
+  
+Q: The exercise above seems to be broken, as it returns incorrect results. Use the browser devtools to see what is the request it is sending when we search, and use cURL to search for 'flag' and obtain the flag.  
+A: ***HTB{curl_g3773r}***  
+  
+### Solutions:  
+  
+![obrázok](https://user-images.githubusercontent.com/86005993/160254480-79a7ca49-bcfc-4225-ae26-8c1ad9bcca20.png)
+
+
 
 
 
