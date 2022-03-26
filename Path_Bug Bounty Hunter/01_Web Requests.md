@@ -1,6 +1,7 @@
 ### Questions
   
-target:   165.227.238.95:30601
+target:   165.227.238.95:30601  
+  
 Q: To get the flag, use cURL to download the file returned by '/download.php' in the above server.  
 A: ***HTB{64$!c_cURL_u$3r}***
   
