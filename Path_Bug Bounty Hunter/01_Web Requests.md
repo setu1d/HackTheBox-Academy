@@ -36,6 +36,19 @@ A: ***2.4.41***
 ### HTTP Headers  
   
 *Questions*
+  
+ Target: 159.65.56.112:31338
+  
+
+Q: The server above loads the flag after the page is loaded. Use the Network tab in the browser devtools to see what requests are made by the page, and find the request to the flag.  
+A: *** 
+  
+![obrázok](https://user-images.githubusercontent.com/86005993/160246637-b58b82e9-425d-4e6a-b510-2a2b2b3e88d7.png)  
+![obrázok](https://user-images.githubusercontent.com/86005993/160246656-e0f2a7f8-5906-45c3-89bd-6ee1cff71c9c.png)
+![obrázok](https://user-images.githubusercontent.com/86005993/160246696-95131d5c-ce7e-44bc-b2cc-3720acf7917e.png) 
+![obrázok](https://user-images.githubusercontent.com/86005993/160246763-40e44446-dfa1-49af-956b-47ce4186b2e5.png)
+  
+*Questions*
 
 
 
