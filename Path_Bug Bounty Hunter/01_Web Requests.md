@@ -78,7 +78,22 @@ A: ***HTB{p0$t_r3p34t3r}***
   
 ### Solutions:
   
-![obrázok](https://user-images.githubusercontent.com/86005993/160255884-14f978f5-a6a4-4a76-979b-d239e91551dd.png)
+![obrázok](https://user-images.githubusercontent.com/86005993/160255884-14f978f5-a6a4-4a76-979b-d239e91551dd.png)  
+
+### PUT & DELETE 
+  
+*Questions*  
+  
+Target: 159.65.81.40:30661  
+  
+Q: Try to update any city's name to be 'flag', and then delete any other city (including any cities you added). Once done, try to search for a city named 'flag' to get the flag.  
+A: ***HTB{crud_4p!_m4n!pul4t0r}***
+
+### Solutions:  
+  
+![obrázok](https://user-images.githubusercontent.com/86005993/160296198-0190a98a-7ef0-4beb-b91c-af1b0bc320a8.png)
+
+
 
 
 
