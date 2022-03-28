@@ -29,8 +29,13 @@ A: `HiddenInPlainSight`
   
 Target: 161.35.47.235:31939  
   
-Q: What text would be displayed on the page if we use the following payload as our input: <a href="http://www.hackthebox.com">Click Me</a>
-A: 
+Q: What text would be displayed on the page if we use the following payload as our input: <a href="http://www.hackthebox.com">Click Me</a>  
+A: `Your name is Click Me`  
+
+*Solutions:*  
+  
+![obrázok](https://user-images.githubusercontent.com/86005993/160386223-78b2b1f4-c047-4b18-918f-1a4d08fb7d58.png)
+  
 
 
 
