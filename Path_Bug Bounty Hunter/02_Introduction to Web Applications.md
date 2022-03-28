@@ -34,7 +34,17 @@ A: `Your name is Click Me`
 
 *Solutions:*  
   
-![obrázok](https://user-images.githubusercontent.com/86005993/160386223-78b2b1f4-c047-4b18-918f-1a4d08fb7d58.png)
+![obrázok](https://user-images.githubusercontent.com/86005993/160386223-78b2b1f4-c047-4b18-918f-1a4d08fb7d58.png)  
+  
+### Cross-Site Scripting (XSS)
+  
+Target:  
+  
+Q: 
+A: 
+  
+  
+
   
 
 
