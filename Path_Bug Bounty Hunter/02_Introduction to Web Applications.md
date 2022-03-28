@@ -40,8 +40,13 @@ A: `Your name is Click Me`
   
 Target:  
   
-Q: 
-A: 
+Q: Try to use XSS to get the cookie value in the above page  
+A: `XSSisFun`  
+  
+*Solutions:*  
+  
+  ![obrázok](https://user-images.githubusercontent.com/86005993/160387495-fee91414-5667-40f8-9a09-c107cd6054a6.png)
+
   
   
 
