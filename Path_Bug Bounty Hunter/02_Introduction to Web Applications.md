@@ -25,6 +25,13 @@ A: `HiddenInPlainSight`
 
 ![obrázok](https://user-images.githubusercontent.com/86005993/160382454-2a3a5ea8-3a0e-412b-875a-7a7e05b7ef40.png)
 
+### HTML Injection
+  
+Target: 161.35.47.235:31939  
+  
+Q: What text would be displayed on the page if we use the following payload as our input: <a href="http://www.hackthebox.com">Click Me</a>
+A: 
+
 
 
 
