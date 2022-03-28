@@ -17,7 +17,7 @@ A: `text-align: left;`
 ### Sensitive Data Exposure  
   
 Q: Check the above login form for exposed passwords. Submit the password as the answer.  
-A: 
+A: `HiddenInPlainSight`
 
 ***Solutions:***  
   
