@@ -64,7 +64,9 @@ A: `Created`
 ### Databases 
    
 Q: What type of databases is Google's Firebase Database?  
-A: ``
+A: `NoSQL`  
+
+  
 
 
 
