@@ -54,9 +54,13 @@ A: `XSSisFun`
 ### Back End Servers
     
 Q: What operating system is 'WAMP' used with?  
-A: `Windows`
-
+A: `Windows`  
   
+### Web Servers  
+  
+Q: If a web server returns an HTTP code 201, what does it stand for?  
+A: `Created`  
+
 
 
 
