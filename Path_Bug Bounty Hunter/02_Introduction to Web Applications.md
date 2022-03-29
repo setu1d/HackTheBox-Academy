@@ -75,7 +75,17 @@ A: `superadmin`
   
 *Solutions:*  
   
-![obrázok](https://user-images.githubusercontent.com/86005993/160695529-164ae701-f29b-414c-adfe-d3001070714c.png)
+![obrázok](https://user-images.githubusercontent.com/86005993/160695529-164ae701-f29b-414c-adfe-d3001070714c.png)  
+  
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Back End Vulnerabilities  
+   
+ ### Common Web Vulnerabilities  
+   
+ 
+ 
+
 
 
 
