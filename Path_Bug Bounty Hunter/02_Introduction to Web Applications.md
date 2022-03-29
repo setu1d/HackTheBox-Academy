@@ -79,9 +79,14 @@ A: `superadmin`
   
  ------------------------------------------------------------------------------------------------------------------------------------
  
- ## Back End Vulnerabilities  
+## Back End Vulnerabilities  
    
- ### Common Web Vulnerabilities  
+### Common Web Vulnerabilities  
+  
+Q: To which of the above categories does public vulnerability 'CVE-2014-6271' belongs to?  
+A: `Command Injection`  
+
+
    
  
  
