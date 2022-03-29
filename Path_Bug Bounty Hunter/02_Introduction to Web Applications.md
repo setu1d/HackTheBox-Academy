@@ -65,6 +65,21 @@ A: `Created`
    
 Q: What type of databases is Google's Firebase Database?  
 A: `NoSQL`  
+  
+### Development Frameworks & APIs  
+  
+Target: 167.172.52.221:32509  
+  
+Q: Use GET request '/index.php?id=0' to search for the name of the user with id number 1?  
+A: `superadmin`  
+  
+*Solutions:*  
+  
+![obrázok](https://user-images.githubusercontent.com/86005993/160695529-164ae701-f29b-414c-adfe-d3001070714c.png)
+
+
+
+
 
   
 
