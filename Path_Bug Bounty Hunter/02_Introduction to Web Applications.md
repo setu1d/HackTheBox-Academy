@@ -85,6 +85,13 @@ A: `superadmin`
   
 Q: To which of the above categories does public vulnerability 'CVE-2014-6271' belongs to?  
 A: `Command Injection`  
+  
+### Public Vulnerabilities  
+  
+Q: What is the CVSS score of the public vulnerability CVE-2017-0144?  
+A: `9.3`  
+
+https://www.cvedetails.com/cve/CVE-2017-0144/
 
 
    
