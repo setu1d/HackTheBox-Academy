@@ -61,7 +61,10 @@ A: `Windows`
 Q: If a web server returns an HTTP code 201, what does it stand for?  
 A: `Created`  
 
-
+### Databases 
+   
+Q: What type of databases is Google's Firebase Database?  
+A: ``
 
 
 
